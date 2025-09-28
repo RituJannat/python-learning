@@ -26,6 +26,36 @@ print(fruite_name)
 fruits="fol","mango","goava"
 
 
+#output variable
+s="jannat"
+print(s)
+S="jannat"
+H="is"
+I="Smart"
+print(S,H,I)
+#another process
+
+L="jannat "
+l=" is"
+i=" Smart"
+print(L+l+i)
+#Digit
+m=5
+n=6
+print(m+n)
+print(n/m)
+print(n-m)
+print(n*m)
+print(n*n/m)
+print(m+n*n/m)
+#types of str & int input
+g="mom"
+G=23
+#print(g+G)
+print(g,G)
+
+
+
 
 
 
